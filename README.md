@@ -51,4 +51,4 @@ Citation information will be added when the accompanying paper is publicly avail
 
 ## License
 
-No license has been specified yet. The repository contents remain under the authors' copyright unless a license is added.
+This project is released under the MIT License. See `LICENSE` for details.
