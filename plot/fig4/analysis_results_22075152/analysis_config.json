@@ -1,0 +1,47 @@
+{
+  "sac_folder_path": "D:\\data\\iog_data\\before_event_10s_sac_decay\\idx3",
+  "sac_idx_prefix": "idx3_",
+  "detect_model_path": "E:\\lgx\\code\\AEMNet\\detect\\model\\detect_model20_decay.hdf5",
+  "locate_model_path": "E:\\lgx\\code\\AEMNet\\locate\\model\\locate_model20_xy_50_950_SNR_0.03.hdf5",
+  "global_idx_range": [
+    22074152,
+    22076152
+  ],
+  "step_analysis": 100,
+  "norm_method": "channel",
+  "slice_len": 1000,
+  "pad_to": 1024,
+  "slice_plot_len": 1201,
+  "slice_plot_tick_step_samples": 300,
+  "slice_plot_time_unit": "us",
+  "scope_xy_for_feat": [
+    -250.0,
+    250.0
+  ],
+  "scope_z_for_feat": [
+    0.0,
+    48.0
+  ],
+  "out_xy_minmax": [
+    -312.5,
+    312.5
+  ],
+  "fs": 3000000.007574272,
+  "total_windows": 21,
+  "vector_ext": ".svg",
+  "slice_figsize_inch": [
+    12.0,
+    18.0
+  ],
+  "result_fig_width_inch": 12.0,
+  "font_family": "Times New Roman",
+  "tick_fs": 16,
+  "label_fs": 16,
+  "ch_label_fs": 16,
+  "margins": [
+    0.1,
+    0.98,
+    0.1,
+    0.98
+  ]
+}
